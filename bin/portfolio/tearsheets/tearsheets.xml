@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<assets>
+	
+   <asset id="asset2" src="Tear-01.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset3" src="Tear-02.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset4" src="Tear-03.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset5" src="Tear-04.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset6" src="Tear-05.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset7" src="Tear-06.jpg" preload="false" progress="true" type="sprite"></asset>  
+   <asset id="asset8" src="Tear-07.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset9" src="Tear-08.jpg" preload="false" progress="true" type="sprite"></asset>   
+   <asset id="asset10" src="Tear-09.jpg" preload="false" progress="true" type="sprite"></asset>    
+   <asset id="asset11" src="Tear-10.jpg" preload="false" progress="true" type="sprite"></asset>     
+   <asset id="asset12" src="Tear-11.jpg" preload="false" progress="true" type="sprite"></asset> 
+   <asset id="asset13" src="Tear-12.jpg" preload="false" progress="true" type="sprite"></asset>  
+   <asset id="asset14" src="Tear-13.jpg" preload="false" progress="true" type="sprite"></asset>   
+   <asset id="asset15" src="Tear-14.jpg" preload="false" progress="true" type="sprite"></asset> 
+   <asset id="asset16" src="Tear-15.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset17" src="Tear-16.jpg" preload="false" progress="true" type="sprite"></asset>    
+   <asset id="asset18" src="Tear-17.jpg" preload="false" progress="true" type="sprite"></asset>  
+   <asset id="asset19" src="Tear-18.jpg" preload="false" progress="true" type="sprite"></asset>  
+   <asset id="asset21" src="Tear-19.jpg" preload="false" progress="true" type="sprite"></asset>    
+   <asset id="asset22" src="Tear-20.jpg" preload="false" progress="true" type="sprite"></asset>    
+   <asset id="asset23" src="Tear-21.jpg" preload="false" progress="true" type="sprite"></asset>    
+   <asset id="asset24" src="Tear-22.jpg" preload="false" progress="true" type="sprite"></asset>    
+   <asset id="asset25" src="Tear-23.jpg" preload="false" progress="true" type="sprite"></asset>    
+   <asset id="asset26" src="Tear-24.jpg" preload="false" progress="true" type="sprite"></asset>    
+   <asset id="asset27" src="Tear-25.jpg" preload="false" progress="true" type="sprite"></asset>    
+   <asset id="asset28" src="Tear-26.jpg" preload="false" progress="true" type="sprite"></asset>    
+   <asset id="asset29" src="Tear-27.jpg" preload="false" progress="true" type="sprite"></asset>    
+   <asset id="asset20" src="Tear-28.jpg" preload="false" progress="true" type="sprite"></asset>        
+</assets>

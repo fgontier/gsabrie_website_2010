@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<assets>
+   <asset id="asset1" src="intro-01.jpg" title="Test title 1."  preload="false" progress="true" type="sprite" />
+   <asset id="asset2" src="intro-02.jpg" title="Test title 2."  preload="false" progress="true" type="sprite" />
+   <asset id="asset3" src="intro-03.jpg" title="Test title 3."  preload="false" progress="true" type="sprite" />
+   <asset id="asset4" src="intro-04.jpg" title="Test title 4."  preload="false" progress="true" type="sprite" />
+</assets>

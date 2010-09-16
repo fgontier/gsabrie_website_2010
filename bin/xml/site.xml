@@ -1,0 +1,85 @@
+﻿<site title="Gilles Sabrie Photography: %PAGE%" menu="true">
+	   
+	<page id="index" src="index.swf" fonts="regularFont">
+			
+        <page id="nav" src="nav.swf" depth="top">
+			
+            <page id="intro" title="INTRO" src="swf/intro.swf" menu="true" assetPath="portfolio/intro/" landing="true">
+				<asset id="intro" src="intro.xml" assets="true" />	
+			</page>
+
+            <page id="menuStory" title="STORIES" src="swf/menuStory.swf" menu="true" assetPath="portfolio/menuStory/">
+				<asset id="menuStory" src="menuStory.xml" assets="true" />
+			</page>
+			
+			<page id="Landscape" title="A NEW URBAN LANDSCAPE" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Landscape/">
+				<asset id="Landscape" src="Landscape.xml" assets="true" />
+			</page>
+			
+			<page id="Opera" title="THE TRAVELING OPERA" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Opera/">
+				<asset id="Opera" src="Opera.xml" assets="true" />
+			</page>
+			
+			<page id="Olympics" title="WATCHING THE OLYMPICS (OR NOT)" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Olympics/">			
+				<asset id="Olympics" src="Olympics.xml" assets="true" />
+			</page>	
+			
+			<page id="Tibet" title="TIBET OR NOT TIBET?" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Tibet/">	
+				<asset id="Tibet" src="Tibet.xml" assets="true" />
+			</page>
+			
+			<page id="Kash" title="KASHGAR: A CULTURAL DEMOLITION" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Kash/">	
+			    <asset id="Kash" src="Kash.xml" assets="true" />
+			</page>			
+			
+			<page id="Xinj" title="RED HOT XINJIANG" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Xinj/">
+				<asset id="Xinj" src="Xinj.xml" assets="true" />
+			</page>			
+	  
+			<page id="Studios" title="AT THE STUDIOS GATES" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Studios/">	  
+				<asset id="Studios" src="Studios.xml" assets="true" />
+			</page>	
+		
+			<page id="Adoption" title="ADOPTION ISLAND" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Adoption/">
+				<asset id="Adoption" src="Adoption.xml" assets="true" />
+			</page>	
+			
+			<page id="Fashion" title="MY FASHION" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Fashion/">		
+				<asset id="Fashion" src="Fashion.xml" assets="true" />
+			</page>
+		
+			<page id="Mingongs" title="MINGONGS" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Mingongs/">
+				<asset id="Mingongs" src="Mingongs.xml" assets="true" />
+			</page>			
+			
+			<page id="Kathmandu" title="FIGHTING HIV/AIDS IN KATHMANDU" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Kathmandu/">	
+				<asset id="Kathmandu" src="Kathmandu.xml" assets="true" />
+			 </page>
+			 
+			<page id="Subway" title="SUBWAY DREAMS" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Subway/">		
+				<asset id="Subway" src="Subway.xml" assets="true" />
+			 </page>
+				
+			<page id="Portraits" title="PORTRAITS" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Portraits/">
+				<asset id="Portraits" src="Portraits.xml" assets="true" />
+			</page>
+			
+			<page id="_175M" title="175M" src="swf/slideShow.swf" menu="false" assetPath="portfolio/175M/">		
+			    <asset id="_175M" src="175M.xml" assets="true" />
+			</page>
+			
+			<page id="Earthquake" title="AFTER THE EARTH SHOOK" src="swf/slideShow.swf" menu="false" assetPath="portfolio/Earthquake/">
+				<asset id="Earthquake" src="Earthquake.xml" assets="true" />
+			</page>
+			
+			<page id="tearsheets" title="TEARSHEETS" src="swf/slideShow.swf" menu="true" assetPath="portfolio/tearsheets/"> 
+				<asset id="tearsheets" src="tearsheets.xml" />
+			</page>		
+
+			<page id="info" title="INFO" src="swf/info.swf" menu="true">
+				<asset id="info" src="portfolio/info/info.xml"/>
+			</page>
+	  
+        </page>
+    </page>
+</site>

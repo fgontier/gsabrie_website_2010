@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<assets>
+   <asset id="asset1" src="Fas-01.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset2" src="Fas-02.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset3" src="Fas-03.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset4" src="Fas-04.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset5" src="Fas-05.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset6" src="Fas-06.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset7" src="Fas-07.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset8" src="Fas-08.jpg" preload="false" progress="true" type="sprite"></asset>
+</assets>

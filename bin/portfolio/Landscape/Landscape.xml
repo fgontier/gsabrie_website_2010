@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<assets>
+   <asset id="asset1" src="land-016.jpg" preload="false" progress="true" type="sprite">One of the founding elements of China’s transformation over the past decades has been the urbanization of its population. The share of rural population dropped from 74% to 46% in just over 25 years. This phenomenon has triggered a total reshaping of China’s urban landscape. Historic neighborhoods have been razed to leave room to high rises and shopping malls. Alleyways have become expressways. Meanwhile this influx of population has put urban infrastructures under stress.</asset>
+   
+   <asset id="asset2" src="land-001.jpg" preload="false" progress="true" type="sprite"></asset>
+   
+   <asset id="asset3" src="land-002.jpg" preload="false" progress="true" type="sprite">At Beijing urban planning museum looking at a large scale model of the city.</asset>
+   
+   <asset id="asset4" src="land-003.jpg" preload="false" progress="true" type="sprite">At a real estate fair, buyers and sellers in front of a model of a new large residential area to be built in a suburb of Beijing.</asset>
+   
+   <asset id="asset5" src="land-004.jpg" preload="false" progress="true" type="sprite">At a real estate fair, buyers and sellers in front of a model of a residential complex. The recent urbanisation of China has created the need for more urban housing, however the market is suffering from intense specualtion. The resulting inflation has made it nearly impossible for acerage income Chinese to own their appartment. The real estate bubble has become a threat looming of Chinese economy.</asset>
+   
+   <asset id="asset6" src="land-005.jpg" preload="false" progress="true" type="sprite">Chongqing skyline, behind an empty but soon to be developed piece of land. Chongqing is one of China's fastest developing city. The city's growth is fueled by the government's influx of capital aiming at filling the gap between booming coastal area and the underdeveloped interior and Western part of the country.</asset>
+    
+   <asset id="asset7" src="land-006.jpg" preload="false" progress="true" type="sprite">Beijing Olympic Park under construction.The rapid growth of Beijing cities has made large invetsments in infrastructure necessary. The Olympic Park, one of the world's largest Urban park, will become Beijing green lung at a cost of US$ 300 million.</asset>  
+    
+   <asset id="asset8" src="land-007.jpg" preload="false" progress="true" type="sprite">Designed by Rem Koolhas, the CCTV tower under construction. Along with their expansion, Chinese cities have added landmarks often designed by famous foreign architects.</asset>
+    
+   <asset id="asset9" src="land-008.jpg" preload="false" progress="true" type="sprite">A construction worker at the Shanghai world expo site, with Shanghai skyline in the background.</asset>   
+    
+   <asset id="asset10" src="land-009.jpg" preload="false" progress="true" type="sprite">A local taking a peek at Beijing Olympic stadium aka the Bird's nest still under construction. The bird's nest has become one of Beijing landmark building and an object of pride.</asset>    
+    
+   <asset id="asset11" src="land-010.jpg" preload="false" progress="true" type="sprite">In Beijing, a new subway line under construction. Chinese cities growth as put their transport under stress. Most of them have created or expanded their subway network.</asset>     
+    
+   <asset id="asset12" src="land-011.jpg" preload="false" progress="true" type="sprite">At night, in a condemned Beijing hutong. Through their transformation process, Chinese cities have erased their historic neighbourhoods to leave room for high rises and malls.</asset> 
+    
+   <asset id="asset13" src="land-012.jpg" preload="false" progress="true" type="sprite">In Beijing, a boy standing in the ruins of his neighbourhood. Many of Beijing historic areas have been demolished.</asset>  
+    
+   <asset id="asset14" src="land-013.jpg" preload="false" progress="true" type="sprite">In Beijing, a residential building under construction.</asset>   
+    
+   <asset id="asset15" src="land-014.jpg" preload="false" progress="true" type="sprite">A residential complex in Shanghai.</asset> 
+   
+   <asset id="asset16" src="land-015.jpg" preload="false" progress="true" type="sprite">Crowd at rush hour in Beijing subway. Since 1997, Beijing population almost recorded a 50% reaching 18 million putting the city's infrastructure under great stress.</asset> 
+
+   <asset id="asset17" src="land-016.jpg" preload="false" progress="true" type="sprite">Jianguomen Avenue in Beijing, heart of the business district, one of the first neighbourhood of the capital city to develop and feature high-rises.</asset>    
+
+   <asset id="asset18" src="land-017.jpg" preload="false" progress="true" type="sprite">A crossroad at rush hour in Beijing. There are 1300 new cars daily in Beijing. Car traffic is a problematic issue in China's capital. Alternate days of driving have become a rule.</asset>  
+
+   <asset id="asset19" src="land-018.jpg" preload="false" progress="true" type="sprite">The Guo Mao crossraod in Beijing. The ever increasing number of cars in the city has created huge traffic problems. The construction of new expressways and ring roads has hardly improved traffic.</asset>  
+
+   <asset id="asset20" src="land-019.jpg" preload="false" progress="true" type="sprite">By the Marco Polo bridge the drybed of the Yonding river. The river was flowing until recently. The cumulative effects of population growth, drought and industrial thirst has led to the drying of the river. Water shortage is a big issue for China's Northern cities. The construction of a new South-North canal bringing water from the South is supposed to solve the problem. Many remain skeptical.</asset>    
+</assets>

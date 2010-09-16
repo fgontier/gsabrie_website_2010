@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<assets>
+   <asset id="asset1" src="Min-01.jpg" preload="false" progress="true" type="sprite">In Anhui Province,a peasant, to make ends meet, is working in a brick factory. The revenues from his fields are not enough to support he and his family. Most young people from his village have left for the city.</asset>
+   <asset id="asset2" src="Min-02.jpg" preload="false" progress="true" type="sprite">In Hunan province, two peasants buying bus tickets that will take them to the city where they hope to find work and make a better living.</asset>
+   <asset id="asset3" src="Min-03.jpg" preload="false" progress="true" type="sprite">Peasant workers sleeping on the train. They are on the way to the city to find work, after spending new year holidays with their family.</asset>
+   <asset id="asset4" src="Min-04.jpg" preload="false" progress="true" type="sprite">A migrant arriving in the Tiantongxiyuan suburb of Beijing. </asset>
+   <asset id="asset5" src="Min-05.jpg" preload="false" progress="true" type="sprite">An unemployed peasant at Chengdu labor market, trying to find work as a cook.</asset>
+   <asset id="asset6" src="Min-06.jpg" preload="false" progress="true" type="sprite">In Chengdu,unemployed migrant workers waiting for potential employers. A sign in front of them states their skill and in what capcity the wish to be employed.</asset>
+   <asset id="asset7" src="Min-07.jpg" preload="false" progress="true" type="sprite">Unemployed migrant workers are being hired as sales people at a job market in Chengdu.</asset>
+   <asset id="asset8" src="Min-08.jpg" preload="false" progress="true" type="sprite">Migrant workers picking up garbage for recycling in a newly developed suburb of Beijing.Scavenging is a common occupation among migrant workers.</asset>
+   <asset id="asset9" src="Min-09.jpg" preload="false" progress="true" type="sprite">A young worker by a construction site.</asset>
+   <asset id="asset10" src="Min-10.jpg" preload="false" progress="true" type="sprite">In Beijing a migrant worker selling kytes.Most street vendors are migrants, and spend a lot of time playing a game of cat and mouse with the Chengguan or Urban police who try to keep them away from the streets.</asset>
+   <asset id="asset11" src="Min-11.jpg" preload="false" progress="true" type="sprite">Lunch break at the construction site of Beijing National Theater.</asset>
+   <asset id="asset12" src="Min-12-bis.jpg" preload="false" progress="true" type="sprite">A porter on the streets of Chengdu (Sichuan).</asset>
+   <asset id="asset13" src="Min-12.jpg" preload="false" progress="true" type="sprite">Night shift on a construction site in Beijing.</asset>
+   <asset id="asset14" src="Min-13.jpg" preload="false" progress="true" type="sprite">Migrant workers making long distance calls home.</asset>
+   <asset id="asset15" src="Min-14.jpg" preload="false" progress="true" type="sprite">In Beijing, a migrant worker from Anhui province, counting his money in his room, after a day's work.</asset>
+   <asset id="asset16" src="Min-15.jpg" preload="false" progress="true" type="sprite">A migrant worker drinking in his room.</asset>
+   <asset id="asset17" src="Min-016-bis.jpg" preload="false" progress="true" type="sprite">A young woman waiting for clients by an electric heater in a "massage salon". Lots of female migrant workers end up working in "hair salon" or "massage parlor" which are actually brothels. Working as a prostitutes is far more lucrative than working in a factory or as a waitress.</asset>
+   <asset id="asset18" src="Min-17.jpg" preload="false" progress="true" type="sprite">A waitress standing surrounded by the neon lights of her bar. Many rural women come to the city to try and find work. Many of them work as waitresses.A low paid jobs, but they can sleep in the restaurant and feed themselves.</asset>
+   <asset id="asset19" src="Min-18.jpg" preload="false" progress="true" type="sprite">Migrant women from Inner Mongolia in a basement dorm.They just arrived in Beijing hoping to find work as a housemaids or a waitresses. Their first stop is a basement dorm with no ventilation, heating system and bathroom.</asset>
+   <asset id="asset20" src="Min-19.jpg" preload="false" progress="true" type="sprite">Construction workers in their dorm are watching television after a long day of work. Typically migrant-workers work seven days a week, 13 hours a day.When the weather doesn't allow for them to work, they are off and don't get a salary.</asset>
+   <asset id="asset21" src="Min-20.jpg" preload="false" progress="true" type="sprite">A young construction worker has fallen asleep on his bed.</asset>
+   <asset id="asset22" src="Min-21-bis.jpg" preload="false" progress="true" type="sprite">Migrant workers from CCTV construction site in Beijing, watching an old propaganda movie on the street.</asset>
+   <asset id="asset23" src="Min-22.jpg" preload="false" progress="true" type="sprite">A young worker at a subway construction site in Beijing.</asset>
+   <asset id="asset24" src="Min-23.jpg" preload="false" progress="true" type="sprite">Workers at subway construction site in Beijing.</asset>
+   
+  
+</assets>

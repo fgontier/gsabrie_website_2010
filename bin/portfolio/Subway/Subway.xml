@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<assets>
+   <asset id="asset1" src="Sub-01.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset2" src="Sub-02.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset3" src="Sub-03.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset4" src="Sub-04.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset5" src="Sub-05.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset6" src="Sub-06.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset7" src="Sub-07.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset8" src="Sub-08.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset9" src="Sub-09.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset10" src="Sub-10.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset11" src="Sub-11.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset12" src="Sub-12.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset13" src="Sub-13.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset14" src="Sub-14.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset15" src="Sub-15.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset16" src="Sub-16.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset17" src="Sub-17.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset18" src="Sub-18.jpg" preload="false" progress="true" type="sprite"></asset>
+   <asset id="asset19" src="Sub-19.jpg" preload="false" progress="true" type="sprite"></asset>
+</assets>

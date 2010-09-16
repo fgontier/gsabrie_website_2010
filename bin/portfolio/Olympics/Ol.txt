@@ -1,0 +1,24 @@
+
+<photos>
+<photo name="Ol-01.jpg">Migrant workers about to leave Beijing on the eve of the opening of the Olympic games. They are required to leave the city and come back to their hometown.</photo>
+<photo name="Ol-02.jpg">A cleaning lady watching a video promotion for the Olympics at Beijing Railway Station</photo>
+<photo name="Ol-03.jpg">A woman passing by a billboard featuring Addidas campaign and China National Olympic team.</photo>
+<photo name="Ol-04.jpg">On opening ceremony day, a supporter of China passing by a line up of soldiers. Thousands of additional security personnel were patrolling the streets of Beijing weeks ahead of the event.</photo>
+<photo name="Ol-05.jpg">On Tian An Men square a man is watching on his phone, Hu Jintao speech at the opening ceremony of the olympic games. The square was closed off and retransmission of the event on a big screen cancelled due to fear of "mass incidents" </photo>
+<photo name="Ol-06.jpg">On a street, Chinese tourists and Beijingers are watching the opening ceremony of the Olympic games on a television set in a store.</photo>
+<photo name="Ol-07.jpg">On the street, Beijing locals are watching a basket ball game between Germany and China during the olympic games.</photo>
+<photo name="Ol-08.jpg">In a bar, teenagers are watching the Chinese basket-ball team losing to the U.S. team during the olympic games.</photo>
+<photo name="Ol-09.jpg">A spectator with a Chinese flag on his cap at a boxing game during Beijing olympics<photo>
+<photo name="Ol-10.jpg">A volunteer watching a boxing game on a screen at the boxing arena during the Beijing olympics. 20 000 thousands students were hired as volunteers for the Olympics.Many more applied. </photo>
+<photo name="Ol-11.jpg">Volunteers have been brought to Beijing National stadium to fill empty seats and cheer up the crowds, at the arrival of the marathon during the olympics.</photo>
+<photo name="Ol-12.jpg">Volunteers have been brought to Beijing National stadium to fill empty seats and cheer up the crwods, at the arrival of the marathon during the olympics.</photo>
+<photo name="Ol-13.jpg">a spectator waving a Chinese flag at the National stadium during the arrival of the Olympic Games women's marathon.</photo>
+<photo name="Ol-14.jpg">At a promotional Coca Cola stand, pom-pom girls dance in front of a giant screen showing the star athlete and olympic champion Liu Xiang, during Beijing Olympics. Lu Xiang eventually dropped out of the race due to an injury to the dismay of millions of fans.</photo>
+<photo name="Ol-15.jpg">a young girl cheering during a boxing game at Beijing olympics.</photo>
+<photo name="Ol-16.jpg">Audience watching a broadcast of a volley ball game on an outdoor screen during Beijing olympics.</photo>
+<photo name="Ol-17.jpg">A tailor,in her room, is watching on tv the Chinese gymnasts receiving a gold medal</photo>
+<photo name="Ol-18.jpg">A security guard standing on race tracks, watching a broadcast of a volley ball game on an outdoor screen during Beijing olympics.</photos>
+<photo name="Ol-19.jpg">Chinese tourists without olympic tickets are trying to get as close as possible to the National Stadium to take pictures.</photo>
+<photo name="Ol-20.jpg">Audience watching a broadcast of a volley ball game on an outdoor screen during Beijing olympics.</photo>
+<photo name="Ol-21.jpg">Audience watching a broadcast of a game on an outdoor screen during Beijing olympics.</photo>
+<photo name="Ol-22.jpg">"China will win" says a writing on the forefront of a young spectator at an outdoor screening of the opening ceremony. China did win.</photos>
