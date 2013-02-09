@@ -1,51 +1,1 @@
-﻿<project>
-  <name>gaia_noPreload_5</name>
-  <language>AS3</language>
-  <player>9</player>
-  <version>3.2.2</version>
-  <tweenMax>11.131</tweenMax>
-  <width>800</width>
-  <height>600</height>
-  <width100>true</width100>
-  <height100>true</height100>
-  <centerX>false</centerX>
-  <centerY>false</centerY>
-  <bgColor>FFFFFF</bgColor>
-  <fps>30</fps>
-  <uri>file:///C|/Users/fgontier/Documents/boulot/gilles/gaia_noPreload_5</uri>
-  <flashPath>lib</flashPath>
-  <publishPath>bin</publishPath>
-  <classesPath>src</classesPath>
-  <siteXmlPath>xml</siteXmlPath>
-  <classPackage>com.gsabrie.pages</classPackage>
-  <template>Actionscript</template>
-  <seo>true</seo>
-  <domain>www.gsabrie.com/</domain>
-  <modified>1277392208959</modified>
-  <optimizeTypes>
-    <bitmapAsset>true</bitmapAsset>
-    <bitmapSpriteAsset>true</bitmapSpriteAsset>
-    <soundAsset>true</soundAsset>
-    <soundClipAsset>true</soundClipAsset>
-    <netStreamAsset>true</netStreamAsset>
-    <textAsset>true</textAsset>
-    <xmlAsset>true</xmlAsset>
-    <styleSheetAsset>true</styleSheetAsset>
-    <jsonAsset>true</jsonAsset>
-    <byteArrayAsset>true</byteArrayAsset>
-  </optimizeTypes>
-  <publishData>
-    <node label="lib" checked="2">
-      <node label="swf" icon="flashFileIcon" checked="2">
-        <node label="info.fla" icon="flashFileIcon" checked="0" src="swf/info.fla"/>
-        <node label="intro.fla" icon="flashFileIcon" checked="0" src="swf/intro.fla"/>
-        <node label="menuStory.fla" icon="flashFileIcon" checked="1" src="swf/menuStory.fla"/>
-        <node label="slideShow.fla" icon="flashFileIcon" checked="0" src="swf/slideShow.fla"/>
-      </node>
-      <node label="index.fla" icon="flashFileIcon" checked="1" src="index.fla"/>
-      <node label="nav.fla" icon="flashFileIcon" checked="0" src="nav.fla"/>
-      <node label="preload.fla" icon="flashFileIcon" checked="0" src="preload.fla"/>
-      <node label="main.fla" icon="mainFileIcon" checked="0" src="main.fla"/>
-    </node>
-  </publishData>
-</project>
+﻿<project>  <name>gaia_noPreload_5</name>  <language>AS3</language>  <player>9</player>  <version>3.2.2</version>  <width>800</width>  <height>600</height>  <width100>true</width100>  <height100>true</height100>  <centerX>false</centerX>  <centerY>false</centerY>  <bgColor>FFFFFF</bgColor>  <fps>30</fps>  <uri>file:///Macintosh%20HD/Users/frederic_gontier/Documents/work/gsabrie_website_2010</uri>  <flashPath>lib</flashPath>  <publishPath>bin</publishPath>  <classesPath>src</classesPath>  <siteXmlPath>xml</siteXmlPath>  <classPackage>com.gsabrie.pages</classPackage>  <template>Actionscript</template>  <seo>true</seo>  <domain>www.gsabrie.com/</domain>  <modified>1360442265784</modified>  <optimizeTypes>    <bitmapAsset>true</bitmapAsset>    <bitmapSpriteAsset>true</bitmapSpriteAsset>    <soundAsset>true</soundAsset>    <soundClipAsset>true</soundClipAsset>    <netStreamAsset>true</netStreamAsset>    <textAsset>true</textAsset>    <xmlAsset>true</xmlAsset>    <styleSheetAsset>true</styleSheetAsset>    <jsonAsset>true</jsonAsset>    <byteArrayAsset>true</byteArrayAsset>  </optimizeTypes>  <publishData>    <node label="lib" checked="2">      <node label="swf" icon="flashFileIcon" checked="0">        <node label="info.fla" icon="flashFileIcon" checked="0" src="swf/info.fla"/>        <node label="intro.fla" icon="flashFileIcon" checked="0" src="swf/intro.fla"/>        <node label="menuStory.fla" icon="flashFileIcon" checked="0" src="swf/menuStory.fla"/>        <node label="slideShow.fla" icon="flashFileIcon" checked="0" src="swf/slideShow.fla"/>      </node>      <node label="index.fla" icon="flashFileIcon" checked="1" src="index.fla"/>      <node label="nav.fla" icon="flashFileIcon" checked="1" src="nav.fla"/>      <node label="preload.fla" icon="flashFileIcon" checked="0" src="preload.fla"/>      <node label="main.fla" icon="mainFileIcon" checked="0" src="main.fla"/>    </node>  </publishData></project>
